@@ -1,6 +1,6 @@
 #  Stroop Effect Sample Analysis
 
-This is Statistical Testing project using a sample of time measures from the Stroop task experiment. Throughout the jupyter notebook it is possible to follow the analyses and find definition of variables, visualisations, hypothesis tests and furher analyses that explain this cognitive phenomenon.
+This is Statistical Testing project using a sample of time measures from the Stroop task experiment. Throughout the jupyter notebook it is possible to find definition of variables, visualisations, hypothesis tests and furher analysis to explain this cognitive phenomenon.
 
 ## Definition of the Stroop Effect 
 
